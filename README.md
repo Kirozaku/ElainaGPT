@@ -1,5 +1,5 @@
 # ElainaGPT AI
-![ElainaGPT](img/elaina4.jpeg)
+![ElainaGPT](elaina4.jpeg)
 
 **ElainaGPT AI** is designed to deliver powerful, unrestricted, and seamless AI-driven conversations—pushing the limits of what is possible with natural language processing.
 
@@ -56,8 +56,8 @@ Run:
 
 ## 💻 Screenshot ElainaGPT
 
-![screenshot1](img/Screenshot1.jpg)  
-![screenshot2](img/Screenshot2.jpg)
+![screenshot1](Screenshot1.jpg)  
+![screenshot2](Screenshot2.jpg)
 
 
 Created by **[Kirozaku](https://github.com/Kirozaku)**
