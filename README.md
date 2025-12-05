@@ -1,5 +1,5 @@
 # ElainaGPT AI
-![ElainaGPT](img/elaina4.jpg)
+![ElainaGPT](img/elaina4.jpeg)
 
 **ElainaGPT AI** is designed to deliver powerful, unrestricted, and seamless AI-driven conversations—pushing the limits of what is possible with natural language processing.
 
